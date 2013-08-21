@@ -1,0 +1,11 @@
+{
+    "name":         "webd/structures",
+    "description":  "A library of data structures (KDTree,...)",
+    "minimum-stability" : "dev",
+    "require":      {
+        "webd/vectors":   "dev-master"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
